@@ -10,7 +10,6 @@ import java.util.List;
 /**
  * This class implements a playing card.
  * 
- * @author philip gust
  */
 class Card {
 	/** enumeration of suits */
