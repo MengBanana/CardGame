@@ -8,8 +8,6 @@ import java.util.concurrent.Future;
 
 /**
  * This class tests the Game.
- * 
- * @author philip gust
  *
  */
 public class PlayGame {
